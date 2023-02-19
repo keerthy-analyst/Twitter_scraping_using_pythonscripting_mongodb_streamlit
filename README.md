@@ -50,5 +50,4 @@ Streamlit: import streamlit as st
 
 ## LINK TO VIEW IN YOUR BROWSER
 Local URL: http://localhost:8501
-
 Network URL: http://192.168.0.102:8501
