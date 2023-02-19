@@ -47,11 +47,6 @@ Streamlit: import streamlit as st
 3. Created a dataframe to store entire scraped data
 4. now download the scrape data in the form of JSON and CSV
 5. A new collection will be created and data is uploaded into that collection.
-## Screenshots
-
-![App Screenshot](https://paste.pics/70488a0bf5897728ac9a55452f29649e)
-
-
 
 ## LINK TO VIEW IN YOUR BROWSER
 Local URL: http://localhost:8501
