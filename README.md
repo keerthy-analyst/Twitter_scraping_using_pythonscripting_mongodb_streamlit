@@ -30,7 +30,7 @@ Roadmap How it works:
 •	A new collection will be created and data is uploaded into that collection.
 
 PLACING MY SCREENSHOT HOW IT WORKS:
-![Screenshot 2023-02-20 193031](https://user-images.githubusercontent.com/115634164/220130402-b8649056-9639-4132-a2c0-47b4bcbdfbb7.png)
+![Screenshot 2023-02-20 192849](https://user-images.githubusercontent.com/115634164/220131069-0666ac08-ce11-41fa-b5d9-b4e6bd585709.png)
 
  MY MONGODB COMPASS UPLOADED TWEETS:
 ![Screenshot 2023-02-20 193031](https://user-images.githubusercontent.com/115634164/220130874-82703cdc-d586-407d-af15-2f443b7e917d.png)
